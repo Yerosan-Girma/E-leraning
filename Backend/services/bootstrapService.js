@@ -14,9 +14,9 @@ const DEMO_USERS = [
     role: "teacher",
   },
   {
-    fullName: "Admin Demo",
-    email: "admin@edulearn.com",
-    passwordHash: "$2a$10$IYF5XlUGs959JKHzZocCQeL0.MZZ9lWD0cSSUGObF8nS4PyaCEqvW",
+    fullName: "Admin User",
+    email: "yerosang463@gmail.com",
+    passwordHash: "$2a$10$JYa2Zxhr5BNOvhqKTxvobOziRz4d1mTuwVoY8N/XdwyaZdSo1mPU.",
     role: "admin",
   },
 ];
